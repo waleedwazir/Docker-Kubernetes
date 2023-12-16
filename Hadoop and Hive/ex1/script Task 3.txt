@@ -1,0 +1,1 @@
+select a.county , sum(b.salary)/count(distinct b.id) as average_salary from employee b join county a on (b.county_id = a.id) group by a.county;

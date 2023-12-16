@@ -1,0 +1,1 @@
+create view employee_dates as select name , datediff(to_date('2002-12-31'), date_joined) as days_is_joined , if (isnotnull(date_left) , datediff(to_date('2002-12-31') , date_left), 0) as days_is_left from employee_data;

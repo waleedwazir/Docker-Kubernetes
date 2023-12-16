@@ -1,0 +1,17 @@
+County ID	County Name	Province	Area	Population
+0	Dublin	Leinster	922	1.451
+1	Dublin	Leinster	922	1.451
+2	Kildare	Leinster	1695	0.247
+3	Dublin	Leinster	922	1.451
+4	Kildare	Leinster	1695	0.247
+5	Kildare	Leinster	1695	0.247
+6	Dublin	Leinster	922	1.451
+7	Dublin	Leinster	922	1.451
+8	Dublin	Leinster	922	1.451
+9	Dublin	Leinster	922	1.451
+10	Kildare	Leinster	1695	0.247
+11	Kildare	Leinster	1695	0.247
+12	Dublin	Leinster	922	1.451
+13	Dublin	Leinster	922	1.451
+14	Dublin	Leinster	922	1.451
+15	Kildare	Leinster	1695	0.247

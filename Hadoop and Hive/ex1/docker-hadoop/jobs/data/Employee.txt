@@ -1,0 +1,17 @@
+Employee ID	Name	Date of Birth	Gender	Job Title	Salary	Date Joined	Date Left	Address	County ID
+100	Smith	1974-01-12	M	Director	100000	2001-08-01		12, Green Avenue, Howth, Co. Dublin	0
+125	Jones	1989-04-06	F	Technician	30000	2001-05-01	2002-08-31	43, School Road, Malahide, Co. Dublin	1
+167	Davis	1982-01-19	F	Senior Technician	50000	2002-12-01		10, Main Street, Naas, Co. Kildare	2
+200	O'Bien	1997-05-03	M	Technician	25000	2002-05-01	2002-11-30	Apt 02, High Court, Condalkin. Co. Dublin	3
+205	Edward	1995-11-16	M	Technician	33000	2001-01-01		33, Barake Street, Clane, Co. Kildare	4
+216	Evans	1995-03-22	F	S' Technician	44000	2001-08-01	2002-03-31	143, High Street, Niwbridge, Co. Kildare	5
+220	Moore	1996-06-28	F	Jnr. Technician	22000	2002-01-01		Apt 01, Shreedon Court, Rathcoole, Co. Dublin	6
+301	Rogers	1975-11-14	M	Deputy Director	60000	2002-05-01		Manor House, Naas Road, Inchico, Co. Dublin	7
+303	Phillip	1976-10-14	F	HR Manager	70000	2002-01-01		44, Dublin Road, Finglas, Co. Dublin	8
+344	Shane	1986-07-06	M	"D"" Director"	50000	2001-01-01	2002-04-30	65, Waterway, Killiney, Co. Dublin	9
+351	Alan	1973-05-22	M	Dep. Director	80000	2001-04-01		43, Shandon Court, Clane, Co. Kildare	10
+364	Gary	1981-11-11	M	Eng` Manager	85000	2001-01-01	2002-03-31	22, Earls, Newbridge, Co. Kildare	11
+371	Robert	1993-01-27	M	J Technician	27000	2001-01-01	2001-10-31	61, Robert Street, Dublin 04, Co. Dublin	12
+380	Jason	1981-02-28	M	Lead Technician	45000	2001-02-02		56, Alex Street, Dublin 01, Co. Dublin	13
+393	Marry	1976-05-18	F	Director	70000	2001-01-01	2002-11-30	59, Sea Forth, Sword, Co. Dublin	14
+409	Hilary	1988-06-15	F	Marketing Director	78000	2001-03-01		87, Bray Street, Kildare, Co. Kildare	15
